@@ -4,8 +4,8 @@ A mini e-commerce application built with Rails 6.1 for understanding rails. It r
 
 ## Screenshots
 
-!["screenshot of Homepage"](url)
-!["screenshot of Cart"](url)
+!["screenshot of Homepage"](https://github.com/momotrq94/jungle-rails/blob/master/public/Jungle-Homepage.png)
+!["screenshot of Cart"](https://github.com/momotrq94/jungle-rails/blob/master/public/Jungle-Cart.png)
 
 ## Setup
 
