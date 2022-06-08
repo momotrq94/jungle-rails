@@ -1,6 +1,11 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 6.1 for understanding rails. It represents a plant store where users can sign up and purchase plants. An Admin portion has also been built in to create new products and categories for the website. The user passwords are hashed using Bcrypt. E2E Testing done using cypress.
+
+## Screenshots
+
+!["screenshot of Homepage"](url)
+!["screenshot of Cart"](url)
 
 ## Setup
 
@@ -19,7 +24,7 @@ If Rails is complaining about authentication to the database, uncomment the user
 
 ## Stripe Testing
 
-Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
+Use Credit Card # 4111 1111 1111 1111 for testing success scenarios. Any future date can be used with any 3 digit cvc number.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
